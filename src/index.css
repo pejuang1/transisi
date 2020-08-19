@@ -11,3 +11,35 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+@media screen and (max-width: 992px) {
+  .flexbiru {
+    display: unset !important;
+    justify-content: unset !important;
+  }
+}
+@media screen and (max-width: 1349px) {
+  .paddingbiru {
+    padding: unset !important;
+    text-align: center !important;
+    justify-content: center !important;
+    width: unset !important;
+  }
+}
+@media screen and (max-width: 1031px) {
+  .flexbiru {
+    display: unset !important;
+    justify-content: unset !important;
+  }
+}
+@media screen and (max-width: 1149px) {
+  .flexbiru {
+    display: unset !important;
+    justify-content: unset !important;
+  }
+}
+@media screen and (max-width: 1031px) {
+  .flexputih {
+    width: unset !important;
+  }
+}
